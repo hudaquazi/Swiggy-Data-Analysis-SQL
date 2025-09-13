@@ -72,7 +72,7 @@ Contains information on restaurant menus, including:
 - New/Experimental Users  
 Calculated growth potential score for each segment using rating, CLV proxy, and market share.
 
-#### Key Insights  
+## Key Insights  
 | Insight                    | Example Finding                                                                                                      |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **Top Dish**               | **Biryani** is the most frequently ordered dish across multiple cities, followed by Pizza and Paneer Butter Masala   |
@@ -90,7 +90,7 @@ Calculated growth potential score for each segment using rating, CLV proxy, and 
   
   
   
-#### Business Recommendation
+## Business Recommendation
 | Area                     | Recommendation                                                                                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | **Menu Strategy**        | Focus on **expanding top-performing categories** (e.g., North Indian, Chinese) across more cities to meet demand.        |
@@ -101,10 +101,6 @@ Calculated growth potential score for each segment using rating, CLV proxy, and 
 | **Marketing Focus**      | Promote **top-rated restaurants** and offer discounts for underperforming ones to improve visibility and balance supply. |
 | **Data-Driven Insights** | Regularly track **market penetration**, price sensitivity, and rating distribution to adjust city-level strategies.      |
 | **Investment Planning**  | Allocate higher marketing spend in **markets with Budget Gap or Premium Gap**, as identified in the market analysis.     |
-
-
-
-
 
 
 
