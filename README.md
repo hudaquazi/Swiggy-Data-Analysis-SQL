@@ -1,1 +1,1 @@
-# DATA-SCIENCE-PROJECTS-Swiggy-Data-Analysis-SQL-
+# Swiggy-Data-Analysis-SQL
