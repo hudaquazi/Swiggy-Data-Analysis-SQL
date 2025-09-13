@@ -21,15 +21,15 @@ This project demonstrates advanced SQL skills including:
 Dataset is downloaded form:    https://www.kaggle.com/datasets/nikhilmaurya1324/swiggy-restaurant-data-india 
 
 Contains information on restaurant menus, including:  
-*State*	              State where the restaurant operates   
-*City*	              City where the restaurant is located  
-*Restaurant_Name*	    Name of the restaurant  
-*Location*	          Local area / neighborhood  
-*Category*	          Dish category (e.g., Biryani, Dessert)  
-*Dish_Name*	          Specific dish name  
-*Price_INR*	          Price of the dish (in INR)  
-*Rating*	            Average rating given by customers  
-*Rating_Count*	      Number of ratings received  
+*State*	  --            State where the restaurant operates   
+*City*	  --            City where the restaurant is located  
+*Restaurant_Name*	 --   Name of the restaurant  
+*Location*	  --        Local area / neighborhood  
+*Category*	  --        Dish category (e.g., Biryani, Dessert)  
+*Dish_Name*	  --        Specific dish name  
+*Price_INR*	  --        Price of the dish (in INR)  
+*Rating*	    --        Average rating given by customers  
+*Rating_Count*--	      Number of ratings received  
 
 #### Approach & Methodology
 1️⃣ Data Quality Assessment (DQA)  
@@ -87,6 +87,9 @@ Calculated growth potential score for each segment using rating, CLV proxy, and 
 
 
 
+
+
+      
 ### Project workflow  
 - Download the file   *swiggy_all_menus_india.csv*   from   https://www.kaggle.com/datasets/nikhilmaurya1324/swiggy-restaurant-data-india
 - Run Step_1.ipynb jupyter notebook (provide correction in data format)
