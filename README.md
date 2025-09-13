@@ -16,3 +16,17 @@ This project demonstrates advanced SQL skills including:
 ✅ Cohort & Segmentation Analysis  
 ✅ Statistical Analysis (percentiles, IQR, coefficient of variation)  
 ✅ Business Recommendations  
+
+#### Dataset Description
+Dataset is imported downloaded form https://www.kaggle.com/datasets/nikhilmaurya1324/swiggy-restaurant-data-india 
+
+Contains information on restaurant menus, including:  
+*State*	              State where the restaurant operates   
+*City*	              City where the restaurant is located  
+*Restaurant_Name*	    Name of the restaurant  
+*Location*	          Local area / neighborhood  
+*Category*	          Dish category (e.g., Biryani, Dessert)  
+*Dish_Name*	          Specific dish name  
+*Price_INR*	          Price of the dish (in INR)  
+*Rating*	            Average rating given by customers  
+*Rating_Count*	      Number of ratings received  
