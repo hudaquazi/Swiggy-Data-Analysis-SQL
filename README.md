@@ -73,6 +73,18 @@ Contains information on restaurant menus, including:
 Calculated growth potential score for each segment using rating, CLV proxy, and market share.
 
 #### Key Insights  
+| Insight                    | Example Finding                                                                                                      |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Top Dish**               | **Biryani** is the most frequently ordered dish across multiple cities, followed by Pizza and Paneer Butter Masala   |
+| **Top Category**           | **North Indian cuisine** dominates across restaurants, accounting for \~40% of total menu items                      |
+| **City Ranking**           | **Bangalore, Hyderabad, and Delhi** have the highest restaurant density and diverse offerings                        |
+| **Pricing Insights**       | The **average dish price is \~₹350**, with premium dishes averaging ₹2,000+ in Tier-1 cities                         |
+| **Market Gaps**            | **Premium dining options are underpenetrated in Tier-2 cities**, signaling growth opportunities                      |
+| **Restaurant Performance** | Only **15% of restaurants are in the "Excellent" tier**, while 30% are "Below Average" or "Poor"                     |
+| **Customer Segments**      | **Loyal High-Value customers** contribute over 40% of total rating counts, making them key revenue drivers           |
+| **Engagement Insights**    | Restaurants with **higher rating counts also have higher average prices**, suggesting willingness to pay for quality |
+| **Quality Distribution**   | Cities like **Chandigarh & Pune** show the highest share of 4.5+ rated restaurants                                   |
+| **Investment Opportunity** | **Budget segment expansion** recommended in Jaipur, **premium entry** recommended in Lucknow & Indore                |
 
 
 
